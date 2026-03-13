@@ -21,7 +21,7 @@ st.markdown(
     }
     .hero-subtitle { font-size: 1.2rem; color: #666; margin-top: 0.5rem; }
     .card {
-        background: white; border-radius: 12px; padding: 1.5rem;
+        background: grey; border-radius: 12px; padding: 1.5rem;
         box-shadow: 0 2px 12px rgba(0,0,0,0.08);
         border-left: 4px solid #667eea; margin-bottom: 1rem;
     }
